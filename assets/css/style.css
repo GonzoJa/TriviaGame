@@ -1,0 +1,14 @@
+.container{
+	text-align: center;
+	width: 50%;
+	background-color: rgba(0,0,0,.7);
+	margin: 80px;
+	color: white;
+}
+#main{
+	color: gold;
+
+}
+body{
+	background-image: url(http://n1.backgroundsarchive.net/pub/40/40395mf990ka2lk.jpg);
+}
